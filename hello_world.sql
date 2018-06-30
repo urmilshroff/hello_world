@@ -1,7 +1,7 @@
 create table hello_world
 (
-hello varchar2(5),
-world varchar2(5)
+Hello, varchar2(6),
+world! varchar2(6)
 );
 
 desc hello_world
