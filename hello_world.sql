@@ -5,5 +5,3 @@ world varchar2(5)
 );
 
 desc hello_world
-
-drop table hello_world
